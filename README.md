@@ -39,8 +39,9 @@ The automation reduces manual workload, ensures timely notifications, and enhanc
   - A dynamic table of their affected servers
   - Disk usage percentage per server
   - A personalized greeting and action note
+![PowerAutomate](https://github.com/user-attachments/assets/33b28ac2-b4ee-4fbf-aac9-c761ca3d60b7)
 
-📸 [View Flow Diagram](https://github.com/InimKelvin/Disk-Utilization-Automation/blob/main/assets/disk_utilization_flow.png)
+📸 [View Flow Diagram](https://github.com/InimKelvin/Disk-Utilization-Automation/blob/main/PowerAutomate2.jpg)
 
 ---
 
