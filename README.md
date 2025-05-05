@@ -70,9 +70,9 @@ The automation reduces manual workload, ensures timely notifications, and enhanc
 
 This project showcases the power of **Power Automate** in IT operations. It transforms a manual reporting task into a fully automated process that ensures consistent and proactive monitoring of server disk space.
 
-> **Note**: Screenshots and flow exports included are sanitized to avoid disclosing sensitive information.
+> **Note**: Only sanitized screenshots are included in this repository. The actual Power Automate flow export is excluded to avoid sharing sensitive organizational configurations.
+
 
 ---
 
-## 📁 Repository Structure
 
